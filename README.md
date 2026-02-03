@@ -8,12 +8,12 @@ Bash-based Linux system audit script to monitor system health, user activity, au
 
 ## Key Features
 
-* System Info:** Hostname, OS, kernel, architecture, uptime, load
-* Disk Usage:** Mounted filesystem usage and alerts
-* CPU & Memory:** Resource utilization and top processes
-* Failed Login Attempts:** Detects sudo/authentication failures
-* Recent Sudo Activity:** Tracks privileged commands executed
-* User Accounts:** Lists local users and home directories
+* System Info: Hostname, OS, kernel, architecture, uptime, load
+* Disk Usage: Mounted filesystem usage and alerts
+* CPU & Memory: Resource utilization and top processes
+* Failed Login Attempts: Detects sudo/authentication failures
+* Recent Sudo Activity: Tracks privileged commands executed
+* User Accounts: Lists local users and home directories
 
 
 
